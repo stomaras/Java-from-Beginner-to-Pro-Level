@@ -1,4 +1,4 @@
-package Inheritance 
+package Inheritance;
 
 
 public class Animal {
