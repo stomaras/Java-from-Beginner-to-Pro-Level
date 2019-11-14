@@ -1,4 +1,4 @@
-package OOP1.StaticVars
+package OOP1.StaticVars;
 
 public class Main {
 
